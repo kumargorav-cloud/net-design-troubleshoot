@@ -215,3 +215,7 @@ This project demonstrates the ability to:
 * Troubleshoot real-world network failures effectively
 
 ---
+---
+How to access the project
+https://drive.google.com/file/d/1N1ecyDvNO9Io4wABjmCdcjBx5m7X0d18/view?usp=drive_link
+
